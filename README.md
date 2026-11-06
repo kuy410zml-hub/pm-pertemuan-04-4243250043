@@ -86,3 +86,13 @@ Konsep asynchronous diterapkan menggunakan Future, async, dan await pada proses 
 ## Pernyataan Penggunaan AI
 
 Dalam pengerjaan proyek ini, AI digunakan sebagai alat bantu untuk memahami konsep pemrograman Dart, menyusun struktur kode, dan membantu proses pemeriksaan kesalahan. Pengujian dan pemahaman program tetap dilakukan oleh penulis.
+
+## Hasil Pengujian
+
+Program telah diuji menggunakan perintah `dart run` dengan hasil:
+
+- Kendaraan Motor berhasil masuk dan keluar.
+- Kendaraan Mobil berhasil masuk dan keluar.
+- Kendaraan MobilMember mendapatkan diskon 50%.
+- Kendaraan keempat ditolak ketika parkiran penuh.
+- Total pendapatan parkir sebesar Rp28.500.
