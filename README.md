@@ -10,6 +10,19 @@
 ## Deskripsi Proyek
 Program Sistem Parkir Kampus FMIPA merupakan aplikasi berbasis console menggunakan bahasa Dart. Program ini digunakan untuk menyimulasikan proses kendaraan masuk dan keluar, menghitung biaya parkir, serta mengelola kapasitas parkir.
 
+## Cara Menjalankan Program
+
+Pastikan Dart SDK sudah terpasang.
+
+1. Buka terminal pada folder proyek.
+2. Jalankan perintah `dart pub get`.
+3. Jalankan program menggunakan `dart run`.
+
+```powershell
+dart pub get
+dart run
+```
+
 ## Fitur
 1. Pengelolaan kendaraan Motor, Mobil, dan Truk.
 2. Perhitungan tarif parkir berdasarkan durasi.
